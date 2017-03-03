@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8FD8D94-457F-4007-A610-0DC8FAE8AF44</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C54A2C080C2566A4D9ADD0E1643D27F06290D59C</key>
+		<string>https://github.com/Floadt/HelpOut.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C54A2C080C2566A4D9ADD0E1643D27F06290D59C</key>
+		<string>HelpOut/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Floadt/HelpOut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C54A2C080C2566A4D9ADD0E1643D27F06290D59C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C54A2C080C2566A4D9ADD0E1643D27F06290D59C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelpOut</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5CE4D11E72DFCCF785EA2BFDC64955D175553B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C54A2C080C2566A4D9ADD0E1643D27F06290D59C" : 0,
+    "F5CE4D11E72DFCCF785EA2BFDC64955D175553B2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "631213BC-1844-4FB4-ABC6-6A27F34D693C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C54A2C080C2566A4D9ADD0E1643D27F06290D59C" : "VolunTree\/HelpOut\/",
+    "F5CE4D11E72DFCCF785EA2BFDC64955D175553B2" : "VolunTree\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VolunTree",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VolunTree.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Floadt\/HelpOut.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C54A2C080C2566A4D9ADD0E1643D27F06290D59C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Floadt\/VolunTree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5CE4D11E72DFCCF785EA2BFDC64955D175553B2"
+    }
+  ]
+}

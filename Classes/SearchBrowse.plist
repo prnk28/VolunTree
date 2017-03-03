@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Advocacy &amp; Human Rights</string>
+		<key>detail</key>
+		<string>The affable Modernist</string>
+		<key>background</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Animals</string>
+		<key>detail</key>
+		<string>The colorful slab serif</string>
+		<key>background</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Arts &amp; Culture</string>
+		<key>detail</key>
+		<string>Articulate meets assertive</string>
+		<key>background</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Board Development</string>
+		<key>detail</key>
+		<string>What letters look like</string>
+		<key>background</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Children &amp; Youth</string>
+		<key>detail</key>
+		<string>The functional family</string>
+		<key>background</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Community</string>
+		<key>detail</key>
+		<string>An architectural letter</string>
+		<key>background</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Computers &amp; Technology</string>
+		<key>detail</key>
+		<string>Spirited, subtle, ferocious</string>
+		<key>background</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Crisis Support</string>
+		<key>detail</key>
+		<string>Dark and mysterious, eloquent and bright</string>
+		<key>background</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Disaster Relief</string>
+		<key>detail</key>
+		<string>A true renaissance letter</string>
+		<key>background</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Education &amp; Literacy</string>
+		<key>detail</key>
+		<string>The slab serif that works</string>
+		<key>background</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Emergency &amp; Safety</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Employment</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>11</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Environment</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>12</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Faith-Based</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Health &amp; Medicine</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Homeless &amp; Housing</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>15</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hunger</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>16</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Immigrants &amp; Refugees</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>17</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>International</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>18</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Justice and Legal</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>19</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Media &amp; Broadcasting</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>People with Disabilities</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>21</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Politics</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Race &amp; Ethnicity</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>23</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Seniors</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>24</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sports &amp; Recreation</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>25</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Veterans &amp; Military Families</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>26</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Women</string>
+		<key>detail</key>
+		<string></string>
+		<key>background</key>
+		<string>27</string>
+	</dict>
+</array>
+</plist>
